@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39454608-26fa-4385-9484-2e51ed29e56e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2/If.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/LogicalType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/if_training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Function_home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/While.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
